@@ -9,18 +9,7 @@ comments: true
 ---
 
 
-ABOUT
- 
-RESEARCH
- 
-PRESENTATIONS
- 
-LINKEDIN
- 
-BLOG
- 
-ART
-UNDERSTANDING ATMOSPHERIC NEUTRALIZATION
+##UNDERSTANDING ATMOSPHERIC NEUTRALIZATION
 AND IT'S DEPENDENCE
 An Introduction to Acidity Trends across the United States of America.
 April 7, 2014
