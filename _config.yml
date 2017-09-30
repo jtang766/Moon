@@ -13,7 +13,7 @@ url:                http://janicetang.com
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
-highlighter:        blue
+highlighter:        Rouge
 kramdown:
   auto_ids:         true
   footnote_nr:      1
