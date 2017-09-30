@@ -4,7 +4,7 @@ title: "Post with Image Feature"
 date: 2014-04-07
 excerpt: "Understanding Atmospheric Neutralization and It's Dependence"
 tags: [Analytical Chemistry, Stastics]
-feature: http://imageshack.com/a/img922/327/6cNTLZ.jpg
+feature: http://imageshack.com/a/img922/5832/uL2Gd5.jpg
 project: true
 comments: true
 ---
