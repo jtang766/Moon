@@ -5,6 +5,7 @@ date: 2014-04-07
 excerpt: "Understanding Atmospheric Neutralization and It's Dependence"
 tags: [Analytical Chemistry, Stastics]
 feature: https://postimg.org/image/epq2snlmz/
+project: true
 comments: true
 ---
 
