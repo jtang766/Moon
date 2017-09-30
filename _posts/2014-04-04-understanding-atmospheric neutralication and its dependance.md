@@ -4,14 +4,13 @@ title: "Post with Image Feature"
 date: 2014-04-07
 excerpt: "Understanding Atmospheric Neutralization and It's Dependence"
 tags: [Analytical Chemistry, Stastics]
-feature: http://imageshack.com/a/img922/5832/uL2Gd5.jpg
+feature: http://imageshack.com/a/img924/1750/yhHhME.png
 project: true
 comments: true
 ---
 
 
-##UNDERSTANDING ATMOSPHERIC NEUTRALIZATION
-AND IT'S DEPENDENCE
+##UNDERSTANDING ATMOSPHERIC NEUTRALIZATIONAND IT'S DEPENDENCE
 An Introduction to Acidity Trends across the United States of America.
 April 7, 2014
 IT IS EASY
