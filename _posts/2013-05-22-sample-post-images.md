@@ -64,7 +64,7 @@ And you'll get something that looks like this:
 And you'll get something that looks like this:
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 
