@@ -1,11 +1,25 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Art & Crafty things
+tags: [art, home decor, dress making, crafty, moon]
 date: 2016-03-21
 comments: false
 ---
-    
+
+
+   
+## Features 
+
+{% capture images %}
+	http://imageshack.com/a/img922/6901/sQcTVU.jpg
+	http://imageshack.com/a/img923/931/Z6mqw4.jpg
+	http://imageshack.com/a/img923/1291/EemL9o.jpg
+	http://imageshack.com/a/img924/9054/jnkiTs.jpg
+	http://imageshack.com/a/img923/6096/iNOk85.jpg
+{% endcapture %}
+{% include gallery images=images caption="Test images" cols=3 %}
+
+
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Features
