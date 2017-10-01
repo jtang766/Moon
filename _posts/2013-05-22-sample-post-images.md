@@ -61,6 +61,15 @@ And you'll get something that looks like this:
 	<figcaption>Two images.</figcaption>
 </figure>
 
+And you'll get something that looks like this:
+
+<figure class="half">
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
+
+
 #### Three Up
 
 Apply the `third` class like so to display three images side by side that share the same caption.
