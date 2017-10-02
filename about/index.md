@@ -27,4 +27,6 @@ When we better understand the thought process of individuals we can better serve
 and bringing the knowledge that I gain to the people around me. I love to meet new people and exchange stories. Besides having my head in loads of data, I occasional practice creativity by creating art and making dresses. This is how I express my personality and bring character to the subtle parts of our lives.
 
 <center>
-	[Back to Home](http://janicetang.com){: .btn}     [Connect on LinkedIn](https://www.linkedin.com/in/janicetang766/){: .btn}</center>
+	[Back to Home](http://janicetang.com){: .btn}     
+ 	[Connect on LinkedIn](https://www.linkedin.com/in/janicetang766/){: .btn}
+ </center>
