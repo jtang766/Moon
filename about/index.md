@@ -28,5 +28,10 @@ and bringing the knowledge that I gain to the people around me. I love to meet n
 
 <center>
 	[Back to Home](http://janicetang.com){: .btn}     
- 	[Connect on LinkedIn](https://www.linkedin.com/in/janicetang766/){: .btn}
- </center>
+ 	[Connect on LinkedIn](https://www.linkedin.com/in/janicetang766/){: .btn}</center>
+
+
+
+[Back to Home](http://janicetang.com){: .btn}     
+[Connect on LinkedIn](https://www.linkedin.com/in/janicetang766/){: .btn}
+

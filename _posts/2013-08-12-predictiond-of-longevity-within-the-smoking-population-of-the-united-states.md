@@ -8,6 +8,15 @@ feature: http://imageshack.com/a/img924/6829/AFr1mw.png
 project: true
 comments: true
 ---
+{% capture images %}
+	http://imageshack.com/a/img924/5298/8jR3sW.png
+	http://imageshack.com/a/img924/9587/Ti7O5T.jpg
+	http://imageshack.com/a/img923/3295/rGwzGp.png
+	http://imageshack.com/a/img923/3413/OQOK0S.png
+	http://imageshack.com/a/img923/8468/wHlezw.png
+	http://imageshack.com/a/img922/2697/ggdvEJ.png
+{% endcapture %}
+{% include gallery images=images caption="Painting is just one way for me to express my presonality" cols=1 %}
 
 
 ABOUT

@@ -9,7 +9,15 @@ project: true
 comments: true
 ---
 
-
+{% capture images %}
+	http://imageshack.com/a/img924/826/Ts1Teg.jpg
+	http://imageshack.com/a/img924/7373/SV95bF.png
+	http://imageshack.com/a/img923/7585/x2C2nf.png
+	http://imageshack.com/a/img922/4088/N0IV0T.jpg
+	http://imageshack.com/a/img924/46/UdpzKT.png
+	http://imageshack.com/a/img922/102/mth170.png
+{% endcapture %}
+{% include gallery images=images caption="Painting is just one way for me to express my presonality" cols=1 %}
 
 ABOUT
  
