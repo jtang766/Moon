@@ -1,103 +1,56 @@
 ---
 layout: post
-title: "Post with Image Feature"
-date: 2014-04-07
-excerpt: "Understanding Atmospheric Neutralization and It's Dependence"
-tags: [Analytical Chemistry, Stastics]
-feature: http://imageshack.com/a/img924/6829/AFr1mw.png
+title: "Quantification of Genetic Mutations in Video Images"
+date: 2014-04-01
+excerpt: "The analysis will cover techniques used to convert video images to quantitative data and the qualitative conclusion that was made."
+tags: [Biology, Stastics]
+feature: http://imageshack.com/a/img924/46/UdpzKT.png
 project: true
 comments: true
 ---
 
-{% capture images %}
-	http://imageshack.com/a/img924/826/Ts1Teg.jpg
-	http://imageshack.com/a/img924/7373/SV95bF.png
-	http://imageshack.com/a/img923/7585/x2C2nf.png
-	http://imageshack.com/a/img922/4088/N0IV0T.jpg
-	http://imageshack.com/a/img924/46/UdpzKT.png
-	http://imageshack.com/a/img922/102/mth170.png
-{% endcapture %}
-{% include gallery images=images caption="Painting is just one way for me to express my presonality" cols=1 %}
 
-ABOUT
- 
-RESEARCH
- 
-PRESENTATIONS
- 
-LINKEDIN
- 
-BLOG
- 
-ART
-QUANTIFICATION OF GENETIC MUTATIONS IN VIDEO IMAGES
-The analysis will cover techniques used to convert video images to quantitative data and the qualitative conclusion that was made.
-April 1, 2013
-IN TODAY'S INFORMATION ERA,
+## IN TODAY'S INFORMATION ERA,
 
 data can be collected from anywhere, from mining of twitter feeds to traffic counters. How about video images? They are essentially data collected on the wavelength of light that enters a camera, from frame to frame. Implication are highly versatile but only after we are able to develop algorithms that can further quantify the observations in a video.
 
 This study explores the usage of video images to determine the effects of genetic mutations in C. Elegans worms, also known as lab worms. Mutations can affect the mutant worm’s adaption for higher temperature and are characterized in two ways. First, the effect will be in the responses mechanism, which will reduce the ability to detect a change in temperature. Second classification will be an effect in the physiological mechanism and reduces the ability of organs to exhibit normal behavior when temperature increases.
- Picture
-Figure 1 – Images of C. Elegans worms from video analysis
+
 59 locations of mutations were included in the study. Their performance was recorded in 80 second videos. The contrast was adjusted so the changes in the coloration of the pixel can counted by a software. The number of pixels that changed color in between frames tell us how much movement the lab worms were exhibiting (figure 1).
 
+<center><figure>
+	<img src="http://imageshack.com/a/img922/4088/N0IV0T.jpg">
+	<figcaption>
+	Figure 1 – Images of C. Elegans worms from video analysis</figcaption>
+</figure></center>
+
 A mutation in the physiological mechanism results in a gradual decrease in movement ending in paralysis. On the other hand, a mutation in the ability to respond to an increase in temperature can be seen as a rapid decrease in movement to paralysis because the lab worms will not change their swimming behaviours until it is too late. Figure 2 shows the expectation of the thermal performance curve within our hypothesis.
+
+<center><figure>
+	<img src="http://imageshack.com/a/img924/7373/SV95bF.png">
+	<figcaption>
+	Figure 2 - Expected thermal performance curves of worms with a mutation in physiological mechanism (Black) or a mutation in responses mechanism (Grey).</figcaption>
+</figure></center>
 
 27 videos of different worms were recorded for accuracy in determining the true effects of the mutations. The resulting data-set was still very noisy and contained many outliers. Simple statistical summaries and methods could not conclude what was happening. Our solution was Functional Data Analysis (FDA) that was available as an R package. FDA was able to solve our problem by looking at the observations as a continuum over time. A polynomial function was plotted for intervals of data and the polynomials were connected to make a soft continuum.
 
 The next step in quantification was to numerically determine the rates of decrease in movement by analysis of derivative of the thermal performance curves. Linking back to our initial hypothesis, a gradual decrease in movement can be seen by a constant derivation and a spontaneous paralysis will result in rapid change in the derivation (figure 3).
 
- Picture
-Figure 2 - Expected thermal performance curves of worms with a mutation in physiological mechanism (Black) or a mutation in responses mechanism (Grey).
- Picture
-Figure 3 – FDA smoothed thermal performance curves of IK575 strain(left) and CB382 strain(right)
+<center><figure>
+	<img src="http://imageshack.com/a/img923/7585/x2C2nf.png">
+	<figcaption>
+	Figure 3 – FDA smoothed thermal performance curves of IK575 strain(left) and CB382 strain(right)</figcaption>
+</figure></center>
+
 Clustering was used to group the 59 strains into two buckets of classification. There were many strains that did not completely match the hypothesis, which was expected because most mutations do not exclusively affect just one mechanism. However for those strains that behaved accordingly, results of the analysis are similar to the expectation of our initial hypothesis (figure 4).
- Picture
-Figure 4 - FDA Thermal performance curves and derivatives of strains that exhibit strong relations to initial hypothesis.
+
+<center><figure>
+	<img src="http://imageshack.com/a/img922/102/mth170.png">
+	<figcaption>
+	Figure 4 - FDA Thermal performance curves and derivatives of strains that exhibit strong relations to initial hypothesis.</figcaption>
+</figure></center>
+
 Videos in our study were limited to black and white and a multiplicity of the data by frame and sample size quickly transformed the data into big data. In order gather the information from the noise we needed to use powerful smoothing methods, such as the FDA program. We also considered Functional Principal Component Analysis (FPCA), which was more powerful but the FDA procedure was significant enough. Considerations into quantification of color image will require a powerful algorithm that mines the elementary data generated by the charge coupled device.
-BACK TO RESEARCH
-FDA PACKAGE IN R
-MEET THE TEAM
-CREATE A FREE WEBSITE
-POWERED BY 
 
-
-
-
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
-
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
-
-## Cupidatat 90's lo-fi authentic try-hard
-
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
-
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
-
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+[Back to Research](http://janicetang.com/research/){: .btn}     
+[Meet The Team](http://janicetang.com/meet-the-gibbs-team/){: .btn}

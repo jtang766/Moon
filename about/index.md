@@ -8,7 +8,7 @@ comments: false
 
 
 <center><figure>
-	<img src="http://imageshack.com/a/img923/485/wccLDK.jpg" style="width: 100px;" />
+	<img src="http://imageshack.com/a/img923/485/wccLDK.jpg" style="width: 150px;" />
 </figure></center>
 
 ## Growing up 
