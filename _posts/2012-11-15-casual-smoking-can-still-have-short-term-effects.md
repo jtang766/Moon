@@ -6,7 +6,6 @@ excerpt: "Casual smokers might claim that their habits are limited to the evenin
 tags: [Analytical Chemistry, Stastics]
 feature: http://imageshack.com/a/img923/9269/Hfw8Fg.png
 project: true
-comments: true
 ---
 
 

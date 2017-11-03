@@ -4,13 +4,13 @@ title: "Understanding Atmospheric Neutralization and It's Dependence"
 date: 2014-04-07
 excerpt: "An Introduction to Acidity Trends across the United States of America."
 tags: [Analytical Chemistry, Stastics]
-feature: http://imageshack.com/a/img923/4370/x3KDF3.png
+feature: /assets/img/Article_UANAID/header.png
 project: true
-comments: true
+
 ---
 
 
-## IT IS EASY
+## It is easy
 
 to look at the atmosphere and assume that not much is happening but the fact of the matter is the atmosphere is very complex with many layers and contains particulate matter ranging in a variety of sizes and properties. Relatively speaking it is easier to study the atmosphere using bigger particles such as dust or pollen because they can act as a microscopic environment for gaseous contaminants to interact with each other.
 
@@ -21,7 +21,7 @@ In 1990 The Clean Air Act [i] was intended to reduce the emission of SO2(g) and 
 Due to time constraints, we only studied six sites that geographically span across the United States (figure 1). Within western United States Glacier NP and Grand Canyon NP represent less industrialized areas, where as Penn State and Shenandoah NP are within close proximity of industrialized areas. Perkinstown does not have a strong influence from urbanization however, it is located within the Northern Plains Region which has the highest agricultural production as stated by USDA (United States Department of Agriculture) [iii].
 
 <center><figure>
-	<img src="http://imageshack.com/a/img924/6906/N0tViy.png">
+	<img src="/assets/img/Article_UANAID/Figure_1">
 	<figcaption>
 	Figure 1 - Six CASTNet sites used in analysis.</figcaption>
 </figure></center>
