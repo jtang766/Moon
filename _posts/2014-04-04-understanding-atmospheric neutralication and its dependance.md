@@ -21,7 +21,7 @@ In 1990 The Clean Air Act [i] was intended to reduce the emission of SO2(g) and 
 Due to time constraints, we only studied six sites that geographically span across the United States (figure 1). Within western United States Glacier NP and Grand Canyon NP represent less industrialized areas, where as Penn State and Shenandoah NP are within close proximity of industrialized areas. Perkinstown does not have a strong influence from urbanization however, it is located within the Northern Plains Region which has the highest agricultural production as stated by USDA (United States Department of Agriculture) [iii].
 
 <center><figure>
-	<img src="/assets/img/Article_UANAID/Figure_1">
+	<img src="/assets/img/Article_UANAID/Table_1.png">
 	<figcaption>
 	Figure 1 - Six CASTNet sites used in analysis.</figcaption>
 </figure></center>
