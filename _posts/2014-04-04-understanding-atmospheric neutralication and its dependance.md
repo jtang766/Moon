@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Atmospheric Neutralization and It's Dependence"
 date: 2014-04-07
 excerpt: "An Introduction to Acidity Trends across the United States of America."
-tags: [Analytical Chemistry, Stastics]
+tags: [Analytical Chemistry, Chemistry, Statistics, University of Toronto]
 feature: /assets/img/Article_UANAID/header.png
 project: true
 
@@ -21,7 +21,7 @@ In 1990 The Clean Air Act [i] was intended to reduce the emission of SO2(g) and 
 Due to time constraints, we only studied six sites that geographically span across the United States (figure 1). Within western United States Glacier NP and Grand Canyon NP represent less industrialized areas, where as Penn State and Shenandoah NP are within close proximity of industrialized areas. Perkinstown does not have a strong influence from urbanization however, it is located within the Northern Plains Region which has the highest agricultural production as stated by USDA (United States Department of Agriculture) [iii].
 
 <center><figure>
-	<img src="/assets/img/Article_UANAID/Table_1.png">
+	<img src="/assets/img/Article_UANAID/Figure_1.png">
 	<figcaption>
 	Figure 1 - Six CASTNet sites used in analysis.</figcaption>
 </figure></center>
@@ -31,7 +31,7 @@ Averages of ion concentration within particulate matter are in alignment with th
 Measurements of the concentrations of sodium Na+ and chloride Cl- were available after 2000, even though their concentrations are relatively small and will not affect the overall annual trends, inclusion in statistical modeling have shown significance. Especially with chloride which has a strong affinity for ammonium creating a strong influence on the neutralization of the system.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img922/9819/REGBv2.png">
+	<img src="/assets/img/Article_UANAID/Table_1.png">
 	<figcaption>
 	Table 1 – Particle ion concentrations. Abbreviations for site name are GLA: Glacier NP, GRA: Grand Canyon NP, PER: Perkinstown, SHE: Shenandoah NP, PEN: Penn State, GEO: Georgia Station.</figcaption>
 </figure></center>
@@ -43,7 +43,7 @@ A drawback to our analysis was that only weekly measurements were available. Thi
 Figure 2 shows the calculated pH values from the E-AIM model. Average pH for rainfall within the United State is about 4.3 by the EPA (Environmental Protection Agency). The wave-like pattern is a result of seasonal changes; during warmer seasons vegetation will naturally produce more ammonia resulting in a lower pH.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img923/2471/UVQlWR.png">
+	<img src="/assets/img/Article_UANAID/Figure_2.png">
 	<figcaption>
 	Figure 2 – pH values calculated through E-AIM with set relative humidity values. Vertical lines marks the end of the year.</figcaption>
 </figure></center>
@@ -51,7 +51,7 @@ Figure 2 shows the calculated pH values from the E-AIM model. Average pH for rai
 Observations at the relative humidity of 70% are interesting as the system only exists at two levels of pH. Further analyses with set relative humidity at increments of 2% from 70% to 90% shows that at a relative humanity of 78%, the system equalizes into a continuous trend.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img924/7808/qWxCv6.png">
+	<img src="/assets/img/Article_UANAID/Figure_3.png">
 	<figcaption>
 	Figure 3 – A) pH values at relative humidity of 70%, 80%, and 90% from 2004 - 2013. B) pH values at relative humidity of 72%, 74%, 76% and 78% from 2004 - 2013 C) pH values at relative humidity of 82%, 84%, 86% and 88% from 2004 - 2013.</figcaption>
 </figure></center>
@@ -69,12 +69,12 @@ Dry deposition samples were collected weekly by the Clean Air and Skies Network 
 
 Strong acidity:
 <figure>
-	<img src="http://imageshack.com/a/img922/7541/ej6Egh.png">
+	<img src="/assets/img/Article_UANAID/Equation_1.png">
 </figure>
 
 Neutralization:
 <figure>
-	<img src="http://imageshack.com/a/img923/2475/F2YZUN.png">
+	<img src="/assets/img/Article_UANAID/Equation_2.png">
 </figure>
 
 Changes in strong acidity and neutralization were calculated by the Theil-sen slope estimator [v], which calculates the changes of all possible combinations of two ordered-points. An estimation of the slope is calculated by the sum of the scores; +1 when there was in an increase, -1 when there is a decrease and 0 when there is no change. This methodology reduces noise and extreme values.
@@ -85,12 +85,12 @@ Ion concentration from Georgia Station from 2004-2013 was processed using the E-
 
 H+:
 <figure>
-	<img src="http://imageshack.com/a/img923/2475/F2YZUN.png">
+	<img src="/assets/img/Article_UANAID/Equation_3.png">
 </figure>
 
 pH:
 <figure>
-	<img src="http://imageshack.com/a/img923/2475/F2YZUN.png">
+	<img src="/assets/img/Article_UANAID/Equation_4.png">
 </figure>
 
 

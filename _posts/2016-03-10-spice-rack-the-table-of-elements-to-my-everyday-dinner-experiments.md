@@ -3,11 +3,8 @@ layout: post
 title: "Spice Rack, The Table of Elements to My Everyday Dinner Experiments"
 date: 2016-03-10
 excerpt: "Not sure what came first for me the love of chemistry or the love of cooking, but cooking is where I find common ground with my peers."
-tags: [Crafts, Chemistry]
+tags: [Crafts, Chemistry, Human behaviour]
 ---
-
-
-## Spice Rack, the Table of Elements to My Everyday Dinner Experiments. 
  
 <figure>
 	<img src="/assets/img/RandomPhoto/Spice_rack.JPG">
@@ -19,6 +16,5 @@ Not sure what came first for me the love of chemistry or the love of cooking, bu
 
 I take much pride in my spice collection because I see it as the table of elementary addition and the best use of counter space. I have collected about 30 spices and the number keeps growing.
 
-Learn more about Cooked by Michel Pollen at http://michaelpollan.com/books/cooked/
 
 

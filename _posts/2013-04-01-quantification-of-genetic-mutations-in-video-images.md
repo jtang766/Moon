@@ -3,7 +3,7 @@ layout: post
 title: "Quantification of Genetic Mutations in Video Images"
 date: 2014-04-01
 excerpt: "The analysis will cover techniques used to convert video images to quantitative data and the qualitative conclusion that was made."
-tags: [Biology, Stastics]
+tags: [Biology, Statistics, University of Toronto]
 feature: /assets/img/Article_QOGMIVI/header.png
 project: true
 ---

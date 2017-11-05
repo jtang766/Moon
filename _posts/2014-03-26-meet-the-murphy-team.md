@@ -3,7 +3,7 @@ layout: post
 title: "Meet the Murphy Team"
 date: 2014-03-26
 excerpt: "I had the pleasure of working with the Murphy Group during my research of Acidic Aerosol Particles across North America."
-tags: [team, Analytical Chemistry, Stastics, UofT]
+tags: [team, Analytical Chemistry, Chemistry, Statistics, University of Toronto]
 ---
 
 <figure>

@@ -10,19 +10,20 @@ comments: false
 ## Paintings
 
 {% capture images %}
-	http://imageshack.com/a/img923/7788/1Ha10B.jpg
-	http://imageshack.com/a/img923/5856/93KlRs.jpg
-	http://imageshack.com/a/img924/4803/SjdND4.jpg
-	http://imageshack.com/a/img924/2135/Yp1Brc.jpg
-	http://imageshack.com/a/img924/5793/ksTLvI.jpg
-	http://imageshack.com/a/img923/284/FCrSZX.jpg
-	http://imageshack.com/a/img924/5158/5GR8KE.jpg
-	http://imageshack.com/a/img923/563/9aky6F.jpg
-	http://imageshack.com/a/img924/4097/UWaNnB.jpg
-	http://imageshack.com/a/img924/3281/5qcqYc.jpg
-	http://imageshack.com/a/img923/7987/suWSO5.jpg
-	http://imageshack.com/a/img922/9719/YTO1eE.jpg
-	http://imageshack.com/a/img923/3461/ootJeo.jpg
+	/assets/img/Painting/Painting_1.jpg
+	/assets/img/Painting/Painting_2.jpg
+	/assets/img/Painting/Painting_3.jpg
+	/assets/img/Painting/Painting_4.jpg
+	/assets/img/Painting/Painting_5.jpg
+	/assets/img/Painting/Painting_6.jpg
+	/assets/img/Painting/Painting_7.jpg
+	/assets/img/Painting/Painting_8.jpg
+	/assets/img/Painting/Painting_9.jpg
+	/assets/img/Painting/Painting_10.jpg
+	/assets/img/Painting/Painting_11.jpg
+	/assets/img/Painting/Painting_12.jpg
+	/assets/img/Painting/Painting_13.jpg
+
 {% endcapture %}
 {% include gallery images=images caption="Painting is just one way for me to express my presonality" cols=3 %}
 
@@ -30,18 +31,18 @@ comments: false
 ## Dresses I have made 
 
 {% capture images %}
-	http://imageshack.com/a/img923/931/Z6mqw4.jpg
-	http://imageshack.com/a/img923/1291/EemL9o.jpg
-	http://imageshack.com/a/img924/9054/jnkiTs.jpg
-	http://imageshack.com/a/img923/6096/iNOk85.jpg
-	http://imageshack.com/a/img922/6901/sQcTVU.jpg
-	http://imageshack.com/a/img923/7104/QLcPzF.jpg
-	http://imageshack.com/a/img922/129/Xz6zPT.jpg
-	http://imageshack.com/a/img923/5720/OzAvUt.jpg
-	http://imageshack.com/a/img923/4067/YDdYrZ.jpg
-	http://imageshack.com/a/img922/1042/0hQqcx.jpg
-	http://imageshack.com/a/img924/3471/jBZTJ6.jpg
-	http://imageshack.com/a/img923/9731/Bsh1wE.jpg
+	/assets/img/Dress_Making/1Dressdesign.jpg
+	/assets/img/Dress_Making/2Dressdesign.jpg
+	/assets/img/Dress_Making/3Dressdesign.jpg
+	/assets/img/Dress_Making/4Dressdesign.jpg
+	/assets/img/Dress_Making/5Dressdesign.jpg
+	/assets/img/Dress_Making/6Dressdesign.jpg
+	/assets/img/Dress_Making/7Dressdesign.jpg
+	/assets/img/Dress_Making/8Dressdesign.JPG
+	/assets/img/Dress_Making/9Dressdesign.JPG
+	/assets/img/Dress_Making/10Dressdesign.jpg
+	/assets/img/Dress_Making/11Dressdesign.jpg
+	/assets/img/Dress_Making/12Dressdesign.jpg
 {% endcapture %}
 {% include gallery images=images caption="From prom to weddings, there is alway a reason to make a dress" cols=3 %}
 
@@ -49,18 +50,18 @@ comments: false
 ## Home Decor Projects
 
 {% capture images %}
-	http://imageshack.com/a/img923/7459/eqLIBX.jpg
-	http://imageshack.com/a/img922/1705/imsmR6.jpg
-	http://imageshack.com/a/img922/8027/kKKjUh.jpg
-	http://imageshack.com/a/img923/6149/C61iRE.jpg
-	http://imageshack.com/a/img922/4299/leBE6Y.jpg
-	http://imageshack.com/a/img924/5530/rg9ynS.jpg
-	http://imageshack.com/a/img924/6066/0lprvg.jpg
-	http://imageshack.com/a/img924/9947/o2Ppv4.jpg
-	http://imageshack.com/a/img922/7017/3uUsZT.jpg
-	http://imageshack.com/a/img924/5659/07uYuT.jpg
-	http://imageshack.com/a/img923/8239/Waj5ar.png
-	http://imageshack.com/a/img922/3905/3oUcoc.png
+	/assets/img/Decor/Decor_1.png
+	/assets/img/Decor/Decor_2.png
+	/assets/img/Decor/Decor_3.png
+	/assets/img/Decor/Decor_4.png
+	/assets/img/Decor/Decor_5.png
+	/assets/img/Decor/Decor_6.png
+	/assets/img/Decor/Decor_7.png
+	/assets/img/Decor/Decor_8.png
+	/assets/img/Decor/Decor_9.png
+	/assets/img/Decor/Decor_10.png
+	/assets/img/Decor/Decor_11.png
+	/assets/img/Decor/Decor_12.png
 {% endcapture %}
 {% include gallery images=images caption="Home decor featuring my art & small decor projects" cols=3 %}
 

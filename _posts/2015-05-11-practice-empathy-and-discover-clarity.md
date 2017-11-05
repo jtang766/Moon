@@ -2,12 +2,10 @@
 layout: post
 title: "Practice Empathy and Discover Clarity"
 date: 2016-03-10
-excerpt: "The practice of empathy is the practice of shifting your attention to someone else."
+excerpt: "The practice of empathy is the practice of shifting your attention to someone else. This noncenteric exercise has many rewarding benefits including gaining insights, therapeutic relief from your life, improvements to your listening skills and enhancing your curiosity and the list can go on."
 tags: [Random thoughts, Human behaviour]
 ---
 
-
-## Practice Empathy and Discover Clarity. 
  
 <figure>
 	<img src="/assets/img/RandomPhoto/Chris_Hadfield.jpg">

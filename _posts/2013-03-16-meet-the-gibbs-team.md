@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Meet the Murphy Team"
+title: "Us the Statisticans"
 date: 2013-03-16
 excerpt: "I was given the opportunity to work as statistician with real life data and gained experience in collaborating with researchers of different fields."
-tags: [team, Stastics, UofT]
+tags: [team, Statistics, University of Toronto]
 ---
 
 <figure>

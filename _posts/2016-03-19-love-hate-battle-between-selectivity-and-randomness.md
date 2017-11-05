@@ -4,9 +4,7 @@ title: "Love Hate Battle Between Selectivity and Randomness"
 date: 2016-03-10
 excerpt: "When performing analysis, it is good to note nature’s complexity and understand that the solution might just arise from randomness."
 tags: [Crafts, Statistics, Random thougths, Human behaviour]
-
-
-## The Love-Hate Battle between Selectivity and Randomness. 
+---
  
 <figure>
 	<img src="/assets/img/RandomPhoto/Paper_flowers.JPG">

@@ -3,13 +3,13 @@ layout: post
 title: "Casual Smoking Can Still Have Short Term Effects"
 date: 2012-11-15
 excerpt: "Casual smokers might claim that their habits are limited to the evening or the night, but our study shows that concentrations can accumulate over a period of time."
-tags: [Analytical Chemistry, Stastics]
+tags: [Analytical Chemistry, Chemistry, Statistics, Health Science, Human behaviour, University of Toronto]
 feature: /assets/img/Article_CSCSHSTE/header.png
 project: true
 ---
 
 
-## “I Don't Smoke, I Only Smoke When I'm Going Out”
+## “I don't smoke, I only smoke when I'm going out”
 
 he said as he takes a few puffs of his cigarette, outside of a popular bar in downtown Toronto. This event indicates that the warnings on cigarette boxes are effective in communicating the hazards of smoking, but some are still drawn into the culture of smoking and will claim themselves a “Casual Smoker.”
 

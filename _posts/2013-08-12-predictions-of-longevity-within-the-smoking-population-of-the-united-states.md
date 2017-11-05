@@ -3,10 +3,9 @@ layout: post
 title: "Predictions of Longevity within the Smoking Population of the United States"
 date: 2013-08-12
 excerpt: "An assessment of studies on the hazards of smoking was done to determine areas of improvement for better representation of population and increased accuracy in predictions."
-tags: [Health Science, UofT, Stastics]
+tags: [Health Science, University of Toronto, Statistics, Human behaviour]
 feature: /assets/img/Article_POLWTSPOTUS/header.png
 project: true
-comments: true
 ---
 
 
