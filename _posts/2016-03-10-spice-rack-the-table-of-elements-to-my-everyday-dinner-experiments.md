@@ -7,10 +7,10 @@ tags: [Crafts, Chemistry]
 ---
 
 
-## SPICE RACK, THE TABLE OF ELEMENTS TO MY EVERYDAY DINNER EXPERIMENTS. 
+## Spice Rack, the Table of Elements to My Everyday Dinner Experiments. 
  
 <figure>
-	<img src="http://imageshack.com/a/img922/9620/arjtug.jpg">
+	<img src="/assets/img/RandomPhoto/Spice_rack.JPG">
 </figure>
   
 I am sure by now, most if not all of you who have Netflix have watched the documentary series ‘Cooked’ by Michael Pollen. For those that have not, the series takes viewers on a journey through the history of cooking, with a view of how cultures cultivate the elements of fire, water, air and earth into their cooking traditions.

@@ -4,19 +4,19 @@ title: "Casual Smoking Can Still Have Short Term Effects"
 date: 2012-11-15
 excerpt: "Casual smokers might claim that their habits are limited to the evening or the night, but our study shows that concentrations can accumulate over a period of time."
 tags: [Analytical Chemistry, Stastics]
-feature: http://imageshack.com/a/img923/9269/Hfw8Fg.png
+feature: /assets/img/Article_CSCSHSTE/header.png
 project: true
 ---
 
 
-## “I DON’T SMOKE, I ONLY SMOKE WHEN I’M GOING OUT”
+## “I Don't Smoke, I Only Smoke When I'm Going Out”
 
 he said as he takes a few puffs of his cigarette, outside of a popular bar in downtown Toronto. This event indicates that the warnings on cigarette boxes are effective in communicating the hazards of smoking, but some are still drawn into the culture of smoking and will claim themselves a “Casual Smoker.”
 
 So I paired with a 27 year-old male casual smoker to study how nicotine metabolizes in the body. His average outings are about 2 – 3 times a month, and at each outing he usually buys one pack of cigarettes. He never finishes the pack, has about 4-5 cigarettes and shares the rest among his friends. We paired up and did an analysis where he smoked 2 cigarettes a day for two days and then I tested the nicotine levels in his body.
 
 <figure>
-	<img src="http://imageshack.com/a/img922/6831/PtY6OH.jpg">
+	<img src="/assets/img/Article_CSCSHSTE/HPLC.jpg">
 </figure>
 
 
@@ -26,7 +26,7 @@ Reality hits when we studied concentrations of the nicotine overnight. Concentra
 
 It hard to determine how frequent casual smoking occurs before it is considered an addiction. As for now, casual smokers might not be a candidate for the long-term effects of smoking however there are short-term effects they are definitely qualified for.
 
-## METHODOLOGY
+## Methodolgy 
 
 Concentrations were investigated with GC-MS (Gas Chromatography paired with Mass Spectrometry) and to protect me from the hazards of bodily fluids, I used a SPME (Solid Phase Micro Extraction). Calculation was done using calibration methodology.
 

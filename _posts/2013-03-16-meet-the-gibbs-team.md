@@ -7,12 +7,12 @@ tags: [team, Stastics, UofT]
 ---
 
 <figure>
-	<img src="http://imageshack.com/a/img924/5150/C5crlX.jpg">
+	<img src="/assets/img/RandomPhoto/Gibbs_Team.JPG">
 </figure>
 
-## STATISTICAL COLLABORATION PROGRAM AND PROFESSOR ALISON GIBBS
+## Statistical Collaboration Program and Professor Alison Gibbs
 
 I was given the opportunity to work as statistician with real life data and gained experience in collaborating with researchers of different fields. Within a team of 3 statisticians we worked with the client from the Department of Ecology and developed a statistical model that transformed video images of the behavior of laboratory mutant worms into quantitative data. Through further analysis we were able to determine which genes relate to a change in the subconscious behavior and which genes created a physical disability.
 
-[Back to Research](http://janicetang.com/research/){: .btn}     
+[Learn More about My Research](http://janicetang.com/research/){: .btn}     
 

@@ -4,13 +4,12 @@ title: "Quantification of Genetic Mutations in Video Images"
 date: 2014-04-01
 excerpt: "The analysis will cover techniques used to convert video images to quantitative data and the qualitative conclusion that was made."
 tags: [Biology, Stastics]
-feature: http://imageshack.com/a/img924/46/UdpzKT.png
+feature: /assets/img/Article_QOGMIVI/header.png
 project: true
-comments: true
 ---
 
 
-## IN TODAY'S INFORMATION ERA,
+## In Today's Information Era, 
 
 data can be collected from anywhere, from mining of twitter feeds to traffic counters. How about video images? They are essentially data collected on the wavelength of light that enters a camera, from frame to frame. Implication are highly versatile but only after we are able to develop algorithms that can further quantify the observations in a video.
 
@@ -19,7 +18,7 @@ This study explores the usage of video images to determine the effects of geneti
 59 locations of mutations were included in the study. Their performance was recorded in 80 second videos. The contrast was adjusted so the changes in the coloration of the pixel can counted by a software. The number of pixels that changed color in between frames tell us how much movement the lab worms were exhibiting (figure 1).
 
 <center><figure>
-	<img src="http://imageshack.com/a/img922/4088/N0IV0T.jpg">
+	<img src="/assets/img/Article_QOGMIVI/Figure_1.JPG">
 	<figcaption>
 	Figure 1 – Images of C. Elegans worms from video analysis</figcaption>
 </figure></center>
@@ -27,7 +26,7 @@ This study explores the usage of video images to determine the effects of geneti
 A mutation in the physiological mechanism results in a gradual decrease in movement ending in paralysis. On the other hand, a mutation in the ability to respond to an increase in temperature can be seen as a rapid decrease in movement to paralysis because the lab worms will not change their swimming behaviours until it is too late. Figure 2 shows the expectation of the thermal performance curve within our hypothesis.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img924/7373/SV95bF.png">
+	<img src="/assets/img/Article_QOGMIVI/Figure_2.png">
 	<figcaption>
 	Figure 2 - Expected thermal performance curves of worms with a mutation in physiological mechanism (Black) or a mutation in responses mechanism (Grey).</figcaption>
 </figure></center>
@@ -37,7 +36,7 @@ A mutation in the physiological mechanism results in a gradual decrease in movem
 The next step in quantification was to numerically determine the rates of decrease in movement by analysis of derivative of the thermal performance curves. Linking back to our initial hypothesis, a gradual decrease in movement can be seen by a constant derivation and a spontaneous paralysis will result in rapid change in the derivation (figure 3).
 
 <center><figure>
-	<img src="http://imageshack.com/a/img923/7585/x2C2nf.png">
+	<img src="/assets/img/Article_QOGMIVI/Figure_3.png">
 	<figcaption>
 	Figure 3 – FDA smoothed thermal performance curves of IK575 strain(left) and CB382 strain(right)</figcaption>
 </figure></center>
@@ -45,7 +44,7 @@ The next step in quantification was to numerically determine the rates of decrea
 Clustering was used to group the 59 strains into two buckets of classification. There were many strains that did not completely match the hypothesis, which was expected because most mutations do not exclusively affect just one mechanism. However for those strains that behaved accordingly, results of the analysis are similar to the expectation of our initial hypothesis (figure 4).
 
 <center><figure>
-	<img src="http://imageshack.com/a/img922/102/mth170.png">
+	<img src="/assets/img/Article_QOGMIVI/Figure_4.png">
 	<figcaption>
 	Figure 4 - FDA Thermal performance curves and derivatives of strains that exhibit strong relations to initial hypothesis.</figcaption>
 </figure></center>

@@ -4,18 +4,18 @@ title: "Predictions of Longevity within the Smoking Population of the United Sta
 date: 2013-08-12
 excerpt: "An assessment of studies on the hazards of smoking was done to determine areas of improvement for better representation of population and increased accuracy in predictions."
 tags: [Health Science, UofT, Stastics]
-feature: http://imageshack.com/a/img923/3413/OQOK0S.png
+feature: /assets/img/Article_POLWTSPOTUS/header.png
 project: true
 comments: true
 ---
 
 
-## MORTALITY RATES
+## Mortality Rates
 
 of smokers have been studied in many counties in order to understand other external influences and effects of covariates of population demographics [i][ii][iii]. An article by P. Jha et al. in the New England Journal of Medicine showed the hazards of smoking while adjusting for variables of education, alcohol consumption, and adiposity within the population of the United States. The findings in the article were fascinating because it also analyzed the mortality of individuals that have quit smoking.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img924/9587/Ti7O5T.jpg">
+	<img src="/assets/img/Article_POLWTSPOTUS/Image_1.JPG">
 </figure></center>
 
 We assessed the hazard model that was used in the article and found that improvements can be made in covariates of education, adiposity and levels of alcohol consumption. Since the study considers the population of those that have quit smoking, it would be appropriate to study the quality of life in terms of dependence on social assistance.
@@ -26,13 +26,13 @@ Covariates of education was reconsidered to be stratified because we do not expe
 Modeling with adiposity variable, BMI, requires a more complicated approach to account for the non-linear relation with health[v]. Recent studies have shown that slightly overweight individuals may have an advantage over underweight individuals[vi].The relation between BMI and smoking status are also ambiguous since smoking status have been shown to influence BMI[vii].
 
 <center><figure>
-	<img src="http://imageshack.com/a/img924/5298/8jR3sW.png">
+	<img src="/assets/img/Article_POLWTSPOTUS/Image_2.JPG">
 </figure></center>
 
 When determining the hazard ratios for current smokers and former smokers versus non-smokers, we discovered that confidence intervals were reduced with stratification of BMI and education variables (figure 1). We saw further reduction and improvements when the variable for social status was incorporated.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img922/4088/N0IV0T.jpg">
+	<img src="/assets/img/Article_POLWTSPOTUS/Figure_1.png">
 	<figcaption>
 	Figure 1 - Results of using different covariates to model Hazards of smoking.</figcaption>
 </figure></center>
@@ -40,7 +40,7 @@ When determining the hazard ratios for current smokers and former smokers versus
 A crude way of estimating the probability of survival for current smokers compared to non-smokers was used, which will helped us understand the reduction in longevity due to smoking. The results of our model gives hazards ratio and probabilities but there has to be a better way to communicate these complex statistical findings to transform probabilities into likelihood of the years reduced (Figure 2). Using our revised model, we were able to determine that in general, smoking will result in a reduction of 10 years for females and 9 years for males, compared to 11 years for females and 12 years for males in original study.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img923/8468/wHlezw.png">
+	<img src="/assets/img/Article_POLWTSPOTUS/Figure_2.png">
 	<figcaption>
 	Figure 2 - Survival Curves calculated by using an age-specific proportional-hazard model adjusting for Education, BMI, alcohol consumption and social assistance. The probability of surviving to the age of 82 for a non-smoker is the same as the probability of surviving to age of 72 for current smokers which resulted to a reduction of 10 years for females and 9 years for males.</figcaption>
 </figure></center>
@@ -50,7 +50,7 @@ Thanks to the large data size, the results on benefits of cessation from subcate
 Using the same technique to determine the reduction in longevity, we determine the years gained by complete cessation, with the analysis of closeness of the probability curves of former smokers compared with never smokers. By analyzing the years gained within each age bucket of time when one quits smoking, we found that quitting at the age of 40-50 has the most impact on health (figure 3). Better yet, our findings should that survival curves of those that quitting smoking before the age of 25 is close to being identical to those that have never smoked.
 
 <center><figure>
-	<img src="http://imageshack.com/a/img922/2697/ggdvEJ.png">
+	<img src="/assets/img/Article_POLWTSPOTUS/Figure_3.png">
 	<figcaption>
 	Figure 3 - Survival Curves calculated by using an age-specific proportional-hazard model adjusting for Education, BMI, Alcohol consumption and social assistance. Calculations of survival probabilities of former smoker was done with a crude method of multiple probability by Hazard ratios.</figcaption>
 </figure></center>
@@ -59,13 +59,13 @@ Although it is exciting to learn that our health is not significantly impacted i
 
 Data was collected from the U.S. National Health Interview Survey between the years of 1997 and 2004[viii]. In the following years up until 2006, death records of interviewed individuals were collected from the National Death Index [ix]. Data Analysis was done using SAS and Stata software with similar adjustments to the P. Jha paper.
 
-## ACKNOWLEDGMENT
+## Acknowledgment
 
 All support and assistance from Professor Paul Grootendorst is greatly acknowledged, an additional acknowledgement goes to Professor Alison Gibbs and the SAS company for the free year subscription to the statistical program SAS.
 
 [Back to Research](http://janicetang.com/research/){: .btn}  
 
-## REFERENCE
+## Reference
 
 i)Jha P, Landsman V, et al. 21st-Century Hazard of Smoking and Benefits of Cessation in the United Stata.N Engl J Med 2008; 4:341-250.
 

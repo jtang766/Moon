@@ -61,7 +61,7 @@ The relative humidity at 78% represents the water activity coefficient, which is
 Our study only covers the interactions with the particulate phase, thus much consideration is placed on understanding the partitioning of water molecules. Relative humidity values are set higher than the average for Georgia Station thus values do not represent the real system. However knowing the strong dependence on relative humidity, we have a better understanding of how to model atmospheric acidity in the future.
 
 
-## METHODOLOGY
+## Methodology 
 
 ### Measurement and Data 
 
@@ -94,7 +94,7 @@ pH:
 </figure>
 
 
-## ACKNOWLEDGMENT
+## Acknowledgment 
 
 Assistance from Professor Murphy and Alex Tevlin is greatly acknowledged and appreciated.
 
@@ -103,7 +103,7 @@ Assistance from Professor Murphy and Alex Tevlin is greatly acknowledged and app
 [Meet The Team](http://janicetang.com/meet-the-murphy-team/){: .btn}
 
 
-## REFERENCE
+## Reference
 
 i)U.S. Environment Protection Agency (2013) The Clean Air Act Amendments of 1990. Epa.gov/oar/caa/caaa_overview.html, Office of Air and Radiation Communication Office UP EPA. Washington D.C., August 2013. 
 

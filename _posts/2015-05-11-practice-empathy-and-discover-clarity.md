@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Spice Rack, The Table of Elements to My Everyday Dinner Experiments"
+title: "Practice Empathy and Discover Clarity"
 date: 2016-03-10
-excerpt: "Not sure what came first for me the love of chemistry or the love of cooking, but cooking is where I find common ground with my peers."
-tags: [Crafts, Chemistry]
+excerpt: "The practice of empathy is the practice of shifting your attention to someone else."
+tags: [Random thoughts, Human behaviour]
 ---
 
 
-## PRACTICE EMPATHY AND DISCOVER CLARITY.
+## Practice Empathy and Discover Clarity. 
  
 <figure>
-	<img src="http://imageshack.com/a/img922/9620/arjtug.jpg">
+	<img src="/assets/img/RandomPhoto/Chris_Hadfield.jpg">
 </figure>
 
 The practice of empathy is the practice of shifting your attention to someone else. This noncenteric exercise has many rewarding benefits including gaining insights, therapeutic relief from your life, improvements to your listening skills and enhancing your curiosity and the list can go on. One of the best methods of practicing empathy is reading a book. Fiction or non-fiction, the level of detail in the characters’ thoughts, emotions and surroundings offer you an opportunity to explore your own ability to empathize with others and is the best way of experiencing life through their point of view.

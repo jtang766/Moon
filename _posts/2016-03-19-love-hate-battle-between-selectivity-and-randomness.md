@@ -1,19 +1,16 @@
 ---
 layout: post
-title: "Spice Rack, The Table of Elements to My Everyday Dinner Experiments"
+title: "Love Hate Battle Between Selectivity and Randomness"
 date: 2016-03-10
-excerpt: "Not sure what came first for me the love of chemistry or the love of cooking, but cooking is where I find common ground with my peers."
-tags: [Crafts, Chemistry]
----
+excerpt: "When performing analysis, it is good to note nature’s complexity and understand that the solution might just arise from randomness."
+tags: [Crafts, Statistics, Random thougths, Human behaviour]
 
 
-## THE LOVE-HATE BATTLE BETWEEN SELECTIVITY AND RANDOMNESS.
+## The Love-Hate Battle between Selectivity and Randomness. 
  
 <figure>
-	<img src="http://imageshack.com/a/img922/9620/arjtug.jpg">
+	<img src="/assets/img/RandomPhoto/Paper_flowers.JPG">
 </figure>
-
-
  
 When making this these paper flowers for an upcoming event, I found myself combining different shapes of petals with different designs of anthers due to my susceptibility to repeated creations. Of course, not all designs will work with each other, which got me thinking of the selectivity of nature and the many years of evolution invested in giving the world the best of the best species.
 
