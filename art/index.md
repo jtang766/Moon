@@ -55,8 +55,8 @@ comments: false
 	/assets/img/Decor/Decor_7.jpg
 	/assets/img/Decor/Decor_8.jpg
 	/assets/img/Decor/Decor_12.jpg
-	/assets/img/Decor/Decor_10.JPG
-	/assets/img/Decor/Decor_6.jpg
+	/assets/img/Decor/Decor_10.jpg
+	/assets/img/Decor/Decor_6.JPG
 	/assets/img/Decor/Decor_9.jpg
 	/assets/img/Decor/Decor_11.jpg
 	/assets/img/Decor/Decor_1.png
