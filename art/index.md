@@ -14,13 +14,14 @@ comments: false
 	/assets/img/Painting/Painting_2.jpg
 	/assets/img/Painting/Painting_3.jpg
 	/assets/img/Painting/Painting_4.jpg
+	/assets/img/Painting/Painting_14.jpg
 	/assets/img/Painting/Painting_5.jpg
 	/assets/img/Painting/Painting_6.jpg
 	/assets/img/Painting/Painting_7.jpg
 	/assets/img/Painting/Painting_8.jpg
 	/assets/img/Painting/Painting_9.jpg
 	/assets/img/Painting/Painting_10.jpg
-	/assets/img/Painting/Painting_11.jpg
+	/assets/img/Painting/Painting_11.jpeg
 	/assets/img/Painting/Painting_12.jpg
 	/assets/img/Painting/Painting_13.jpg
 
@@ -52,16 +53,16 @@ comments: false
 {% capture images %}
 	/assets/img/Decor/Decor_1.png
 	/assets/img/Decor/Decor_2.png
-	/assets/img/Decor/Decor_3.png
-	/assets/img/Decor/Decor_4.png
-	/assets/img/Decor/Decor_5.png
-	/assets/img/Decor/Decor_6.png
-	/assets/img/Decor/Decor_7.png
-	/assets/img/Decor/Decor_8.png
-	/assets/img/Decor/Decor_9.png
-	/assets/img/Decor/Decor_10.png
-	/assets/img/Decor/Decor_11.png
-	/assets/img/Decor/Decor_12.png
+	/assets/img/Decor/Decor_3.jpg
+	/assets/img/Decor/Decor_4.jpg
+	/assets/img/Decor/Decor_5.jpg
+	/assets/img/Decor/Decor_6.JPG
+	/assets/img/Decor/Decor_7.jpg
+	/assets/img/Decor/Decor_8.jpg
+	/assets/img/Decor/Decor_9.jpg
+	/assets/img/Decor/Decor_10.jpg
+	/assets/img/Decor/Decor_11.jpg
+	/assets/img/Decor/Decor_12.jpg
 {% endcapture %}
 {% include gallery images=images caption="Home decor featuring my art & small decor projects" cols=3 %}
 
