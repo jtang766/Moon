@@ -6,6 +6,11 @@ date: 2016-03-21
 comments: false
 ---
 
+##Thank you for your interest in my art 
+
+and visiting my online portfolio. My Art is my way of actualizing my creative ideas. I am always opened to feedback and love hearing other creative viewpoints. Please feel free to send me your honest opinion and any customization you may want. I am happy to connect with regards to a potential collaboration, old and new. I am honored to have the support of many family and friends in having my art put in use. 
+
+Janice
 
 ## Paintings
 
