@@ -6,9 +6,10 @@ date: 2016-03-21
 comments: false
 ---
 
-##Thank you for your interest in my art 
+##Thank you for your interest in my art and visiting my online portfolio. 
 
-and visiting my online portfolio. My Art is my way of actualizing my creative ideas. I am always opened to feedback and love hearing other creative viewpoints. Please feel free to send me your honest opinion and any customization you may want. I am happy to connect with regards to a potential collaboration, old and new. I am honored to have the support of many family and friends in having my art put in use. 
+
+After a evening out, a fellow friend was surprised that I don’t showcase my art outside of Instagram. So here it is, a small modest gallery of crafty projects that I have done over the past few years. I hope that viewers can get a sense of my style. I am always opened to feedback and love hearing about other creative viewpoints. Please feel free to send me your honest opinion and any customization you may want. Practicing creativity is not something I will stop doing and  I am honored to have the support of many family and friends in having my art put in use. 
 
 Janice
 
@@ -25,6 +26,8 @@ Janice
 	/assets/img/Painting/Painting_8.jpg
 	/assets/img/Painting/Painting_9.jpg
 	/assets/img/Painting/Painting_10.jpg
+	/assets/img/Painting/IMG_4441.jpg
+	/assets/img/Painting/IMG_4537.jpg
 	/assets/img/Painting/Painting_11.jpeg
 	/assets/img/Painting/Painting_12.jpg
 	/assets/img/Painting/Painting_13.jpg
@@ -48,6 +51,7 @@ Janice
 	/assets/img/Dress_Making/3Dressdesign.jpg
 	/assets/img/Dress_Making/11Dressdesign.jpg
 	/assets/img/Dress_Making/12Dressdesign.jpg
+	/assets/img/Dress_Making/IMG_4818.jpg
 {% endcapture %}
 {% include gallery images=images caption="From prom to weddings, there is alway a reason to make a dress" cols=3 %}
 
