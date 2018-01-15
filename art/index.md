@@ -6,16 +6,14 @@ date: 2016-03-21
 comments: false
 ---
 
-
-##Thank you for your interest in my art and visiting my online portfolio. 
-
+## Thank you for your interest in my art and visiting my online portfolio. 
 
 After a evening out, a fellow friend was surprised that I don’t showcase my art outside of Instagram. So here it is, a small modest gallery of crafty projects that I have done over the past few years. I hope that viewers can get a sense of my style. I am always opened to feedback and love hearing about other creative viewpoints. Please feel free to send me your honest opinion and any customization you may want. Practicing creativity is not something I will stop doing and  I am honored to have the support of many family and friends in having my art put in use. 
 
 Janice
 
-## Paintings
 
+## Paintings
 
 Painting is just one way for me to express my presonality.
 
@@ -40,10 +38,10 @@ Painting is just one way for me to express my presonality.
 	/assets/img/Painting/IMG_4877.jpg
 	/assets/img/Painting/IMG_4897.jpg
 {% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 
 
 ## Dresses I have made 
-
 
 From prom to weddings, there is alway a reason to make a dress
 
@@ -62,9 +60,10 @@ From prom to weddings, there is alway a reason to make a dress
 	/assets/img/Dress_Making/12Dressdesign.jpg
 	/assets/img/Dress_Making/IMG_4818.jpg
 {% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
+
 
 ## Home Decor Projects
-
 
 Home decor featuring my art & small decor projects.
 
@@ -82,7 +81,7 @@ Home decor featuring my art & small decor projects.
 	/assets/img/Decor/Decor_3.jpg
 	/assets/img/Decor/Decor_4.jpg
 {% endcapture %}
+{% include gallery images=images caption="" cols=3 %}
 
 
-      
 [Visit Instagram](https://www.instagram.com/missjaytang/){: .btn}

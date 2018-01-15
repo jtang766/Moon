@@ -17,14 +17,14 @@ Because analysis of trends became popular and was used in every industry, mathem
 Regression analysis can take on many forms and names depending on the data you want model and how complex you want analysis to be. Most of you have done a simple one variable linear regression known as the linear line of best fit (does y=mx+b ring any bells)? On the other end of the spectrum, regression has no limits on the type of data it can model, which makes it so powerful. Some examples of advanced regression modeling includes logistic model, multivariate, time series and hazards models. They all do the same task of finding correlation in the data and minimizing error in predictions.
 
  
-<center></center>><figure>
+<center><figure>
 	<img src="/assets/img/Article_ADABAOR/regression.PNG">
 </figure></center>
 
 At this moment, you might be wondering if regression is some kind of black box magic that takes an input and splits out a model that we are supposed to trust. The answer is Yes and No. In simple language regression takes two types of variables, a dependent variable (y, the effect) and a set independent variables (x, the cause); and performs a series of calculations to predict the correlation by minimizing the level of random error. An example we can relate to is the weather, we have general idea of how cold it will be tomorrow based on the temperature of today. If we were to record the temperature every day, we can estimate that the temperature will drop by one degree every few days. However, for temperatures during a storm we will take with consideration, since it might be much colder one day and warmer the next, regression will consider this as a random error. If we had more data on temperatures during storms we can add this variable into the analysis as well. When we add more variables in the model, regression seems more like black box magic since the number of calculations the program performs exponentially increases to the point where it’s hard for the human mind to comprehend, let alone do manually.
 
 
-<center></center>><figure>
+<center><figure>
 	<img src="/assets/img/Article_ADABAOR/computermagic.PNG">
 </figure></center>
 
