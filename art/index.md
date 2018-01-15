@@ -6,6 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
+
 ##Thank you for your interest in my art and visiting my online portfolio. 
 
 
@@ -14,6 +15,9 @@ After a evening out, a fellow friend was surprised that I don’t showcase my ar
 Janice
 
 ## Paintings
+
+
+Painting is just one way for me to express my presonality.
 
 {% capture images %}
 	/assets/img/Painting/Painting_1.jpg
@@ -31,12 +35,17 @@ Janice
 	/assets/img/Painting/Painting_11.jpeg
 	/assets/img/Painting/Painting_12.jpg
 	/assets/img/Painting/Painting_13.jpg
-
+	/assets/img/Painting/IMG_4894.jpg
+	/assets/img/Painting/IMG_4874.jpg
+	/assets/img/Painting/IMG_4877.jpg
+	/assets/img/Painting/IMG_4897.jpg
 {% endcapture %}
-{% include gallery images=images caption="Painting is just one way for me to express my presonality" cols=3 %}
 
 
 ## Dresses I have made 
+
+
+From prom to weddings, there is alway a reason to make a dress
 
 {% capture images %}
 	/assets/img/Dress_Making/1Dressdesign.jpg
@@ -53,10 +62,11 @@ Janice
 	/assets/img/Dress_Making/12Dressdesign.jpg
 	/assets/img/Dress_Making/IMG_4818.jpg
 {% endcapture %}
-{% include gallery images=images caption="From prom to weddings, there is alway a reason to make a dress" cols=3 %}
-
 
 ## Home Decor Projects
+
+
+Home decor featuring my art & small decor projects.
 
 {% capture images %}
 	/assets/img/Decor/Decor_5.jpg
@@ -72,7 +82,7 @@ Janice
 	/assets/img/Decor/Decor_3.jpg
 	/assets/img/Decor/Decor_4.jpg
 {% endcapture %}
-{% include gallery images=images caption="Home decor featuring my art & small decor projects" cols=3 %}
+
 
       
 [Visit Instagram](https://www.instagram.com/missjaytang/){: .btn}
