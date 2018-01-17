@@ -25,7 +25,7 @@ At this moment, you might be wondering if regression is some kind of black box m
 
 
 <center><figure>
-	<img src="/assets/img/Article_ADABAOR/computermagic.PNG">
+	<img src="/assets/img/Article_ADABAOR/Computermagic.PNG">
 </figure></center>
 
 Because regression looks at every data point and it’s relation with other metrics without any knowledge of the background, often a skilled statistician or data scientist is needed to monitor the analysis to ensure a cleaned dataset is being fed to the program and adjustments are made such that the model matches the nature of the industry. For us in digital marketing, that means restrictions and the model matches the digital landscape. Below are some questions statistician performing regression might ask,
