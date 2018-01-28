@@ -8,7 +8,7 @@ comments: false
 
 ## Thank you for your interest in my art and visiting my online portfolio. 
 
-After a evening out, a fellow friend was surprised that I don’t showcase my art outside of Instagram. So here it is, a small modest gallery of crafty projects that I have done over the past few years. I hope that viewers can get a sense of my style. I am always opened to feedback and love hearing about other creative viewpoints. Please feel free to send me your honest opinion and any customization you may want. Practicing creativity is not something I will stop doing and  I am honored to have the support of many family and friends in having my art put in use. 
+After an evening out, a friend was surprised that I don't showcase my art outside of Instagram. So here it is, a small modest gallery of crafty projects that I have done over the past few years. I hope that viewers can get a sense of my style. I am always open to feedback and love hearing about other creative viewpoints. Please feel free to send me your honest opinion and any customisation you may want. Practicing creativity is not something I will stop doing and I am honoured to have the support of my family and friends in having my art put in use.
 
 Janice
 
