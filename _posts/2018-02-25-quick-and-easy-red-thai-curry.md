@@ -14,14 +14,14 @@ comments: true
 an elementary food that we love so much that we want to test the limit of enjoyment by adding in our personal flavor. Whether it's pasta (tomatoes, olive oil), Alfredo (cream), or Thai curry (coconut Milk), they all have a base. This recipe is my version of Thai Red Thai Curry. This usually that takes about 30mins but recently I have been experimenting with my slow cooker. This machine has gifted me the pleasure of soft meat. Yeah you heard what I said. Though initially, I didn't understand the benefit of setting your food in the morning and having it ready by the time you come home because I just couldn't wake up early enough, but I have found my work around. The value in the recipe is in the efficiency, so no to reason not to experiment on your own with the extra time you save. If you are using a different slow cooker, you would want to check-out the Tips and Hints of the manual to see how you can improve on the method, and please share to the community below.
 
 
-Prep Time: 25 mins 				Cook Time: 4- 6 hrs (Slow-cooker)	
+Prep Time: 25 mins 				Cook Time: 4-6 hrs (Slow-cooker)	
 
 Slow cooker: Cuisinart - 3.5 Quart Programmable Slow Cooker
 
 
 ## INGREDIENTS
 
--	2kg of chick or beef
+-	2kg of chicken or beef
 -	One onion 
 -	One red pepper
 -	2cm of ginger or 1 tsp ginger paste (one tea spoon)
@@ -41,9 +41,9 @@ You don't need all these spices so pick and choose, at least 4. I always use fla
 -	Coriander flakes 
 
 ## INSTRUCTIONS
-1.	Frist brown the meat you are using. This hardens the edge, so the meat doesn't fall apart. 
+1.	First brown the meat you are using. This hardens the edge, so the meat doesn't fall apart. 
 2.	Cut your onion into slices. You can throw in the onions and stir fly with the meat. 
-3.	While you cook your meet, cut your veggies and prep the slow cooker - slice the red peppers, cut the stems off the Thai chilli paper and squash the pepper flat; and dice your potatoes. 
+3.	While you cook your meat, cut your veggies and prep the slow cooker - slice the red peppers, cut the stems off the Thai chilli paper and squash the pepper flat; and dice your potatoes. 
 4.	When you are done browning the meat, add it to your collection. Combine all your spices, ginger paste and coconut oil. 
 5.	Store in the fridge
 6.	In the morning, move the pot into slow cooker. Add in your coconut milk. 
