@@ -4,8 +4,7 @@ title: "Quick and Easy Red Thai Curry"
 date: 2018-02-25
 excerpt: "The value in the recipe is in the efficiency with using a slow cooker."
 tags: [Living Efficiently, Random thoughts]
-feature: /assets/img/RandomPhoto/Red_Thai Curry.JPG
-comments: true
+feature: /assets/img/RandomPhoto/Red_Thai_Curry.JPG
 
 ---
 
@@ -50,5 +49,5 @@ You don't need all these spices so pick and choose, at least 4. I always use dri
 6.	In the morning, move the pot into slow cooker. Add in your coconut milk. 
 7.	Wait 15 mins while it heats up. Good time to get ready for work. Then stir and mix all the spices. 
 8.	Set on high for 6 hrs for beef and 4 hours for chicken -OR- set on low for 8 hrs for beef and 6 hours for chicken
-9.	Enjoy with rice or rice noodle and let me know how it went. 
+9.	Enjoy with rice or rice noodles.
 
