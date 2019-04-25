@@ -97,30 +97,22 @@ The new variables are
 
 Histograms were plotted for each cluster and ridership were examined to see if there are key difference between clusters. Only relevant graphs are shown to showcase the following key insights. 
 
-1.	Food and Experiential cluster (Cluster 1) have lowest ridership with a mean of 16K visits in 2017 and the average duration is about 5-10 minutes longer for rides from and going to these areas. Looking at the spatial distribution of cluster 1, they are located on the outer parts of Toronto. Since there might limited docking stations in surrounding neighborhoods this might cause ridership to be low and rides to be much longer. 
-
-<center><figure>
-	<img src="/assets/img/Article_BSIT/Table_7.png">
-	<figcaption>
-	1 - Summary Statistics for average trip duration within each postal regions of the 3 clusters. 
-	</figcaption>
-</figure></center>
+1. Food and Experiential cluster (Cluster 1) have lowest ridership with a mean of 16K visits in 2017 and the average duration is about 5-10 minutes longer for rides from and going to these areas. Looking at the spatial distribution of cluster 1, they are located on the outer parts of Toronto. Since there might limited docking stations in surrounding neighborhoods this might cause ridership to be low and rides to be much longer. 
 
 2.	Contrary, within Coffee Shop Venues (cluster 2) we are seeing that the average duration of rides is the shortest (14 mins, 840s) while ridership is very high at an average of 51K rides in 2017. This may be related to the characteristic of areas within this cluster group, areas with more coffee shops tend to be along busy commute routes such as areas surrounding Union station. Looking at the map of Toronto, areas belonging to cluster 2 are closer to Union stations and have more than one nearby subway station. 
-
-<center><figure>
-	<img src="/assets/img/Article_BSIT/Graph_1.png">
-</figure></center>
-
 
 3.	Within cluster 3 (Café and Social Venues) rides within the same postal regions are double of other clusters, which suggest that riders are considering using bike share to travel to nearby destinations. However, rides to outside areas are also high (62K in 2017) which skews the average ride duration a bit longer to 20 mins.  
 
 <center><figure>
-	<img src="/assets/img/Article_BSIT/Table_8.png">
+	<img src="/assets/img/Article_BSIT/Graph_2.png">
 	<figcaption>
-	3 - Summary Statistics for number of local bike rides where the starting location is in the same postal region as the destination. 
+	(Top Left) - Summary Statistics for average trip duration within each postal region of the 3 clusters. 
+	(Top Right) - Summary Statistics for number of local bike rides where the starting location is in the same postal region as the destination. 
+	(Bottom) - Distribution of average Trip duration (in seconds) within each postal region where the postal region is the destination.
 	</figcaption>
 </figure></center>
+
+
 
 ## Discussion
 
