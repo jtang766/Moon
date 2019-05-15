@@ -9,9 +9,9 @@ project: true
 ---
 
 
-## Bike Share in Toronto (Business Objectives) 
+## Bike Share in Toronto
 
-Toronto  is the biggest city in Canada with a population of 2.7M in 2016 [1] and is projected to grow to 3.9M in 2041 [2]. To support such a big population, we not only need the infrastructure but the transportation to move the population. Currently, the public transportation of bike share is underutilized. In this project I will be looking at the usage of Toronto’s bike share program and how they correlate to the venues within the area. 
+Toronto is the biggest city in Canada with a population of 2.7M in 2016 [1] and is projected to grow to 3.9M in 2041 [2]. To support such a big population, we not only need the infrastructure but the transportation to move the population. Currently, the public transportation of bike share is underutilized. In this project I will be looking at the usage of Toronto’s bike share program and how they correlate to the venues within the area. 
 
 I am not frequent user of the bike share program, but I do personally see the benefits of the bike share. One being that I might need a fast ride to somewhere close without the burden of thinking about where to park my car or bike. I suspect that other users will also perform some kind of cost-benefit analysis that considers the distance traveled and the occasion before deciding to use bike share. Also, you mostly likely won’t use it for off-road biking or biking through the park. Thus, there may be some correlation between bike share usage and the surrounding venues. 
 
@@ -50,7 +50,7 @@ KMeans clustering was done on the dataset with the top 10 venues listed. K was t
 </figure></center>
 
 
-Looking that most common venues within each cluster we are can characterized the clusters based on types of venues. 
+Looking that most common venues within each cluster we are can characterized the clusters based on the types of venues. 
 
 - Cluster 1 has wide range of categories in most common venues and 2nd common venue, mostly **Food and Experiential Venues**. 
 - Cluster 2 only has coffee shop as the most common venues thus will be labeled as **Coffee Shop Venues**. 
@@ -62,7 +62,7 @@ Looking that most common venues within each cluster we are can characterized the
  
 _**Summary Statistics of Ridership**_
 
-There are 1,116,784 rides in the dataset and they are segmented to a better story of how venues within postal regions will attract ridership. 
+There are 1,116,784 rides in the dataset and they are segmented to tell a better story of how venues within postal regions will attract ridership. 
 
 The segments are as follows:
 
