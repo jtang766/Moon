@@ -37,6 +37,7 @@ Painting is just one way for me to express my presonality.
 	/assets/img/Painting/IMG_4874.jpg
 	/assets/img/Painting/IMG_4877.jpg
 	/assets/img/Painting/IMG_4897.jpg
+	/assets/img/Painting/IMG_2453.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 
@@ -59,6 +60,7 @@ From prom to weddings, there is alway a reason to make a dress
 	/assets/img/Dress_Making/11Dressdesign.jpg
 	/assets/img/Dress_Making/12Dressdesign.jpg
 	/assets/img/Dress_Making/IMG_4818.jpg
+	/assets/img/Dress_Making/14Dressdesign.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 
