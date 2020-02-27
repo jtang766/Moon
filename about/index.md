@@ -8,7 +8,7 @@ comments: false
 
 
 <center><figure>
-	<img src="/assets/img/RandomPhoto/Profile_picture.JPG" style="width: 600px;" />
+	<img width=500px src="/assets/img/RandomPhoto/Profile_picture.JPG" />
 </figure></center>
 
 ## Growing up 
