@@ -8,7 +8,7 @@ comments: false
 
 ## Thank you for your interest in my art and visiting my online portfolio. 
 
-After an evening out, a friend was surprised that I don't showcase my art outside of Instagram. So here it is, a small modest gallery of crafty projects that I have done over the past few years. I hope that viewers can get a sense of my style. I am always open to feedback and love hearing about other creative viewpoints. Please feel free to send me your honest opinion and any customisation you may want. Practicing creativity is not something I will stop doing and I am honoured to have the support of my family and friends in having my art put in use.
+Too many friends are surprised that I don't showcase my art outside of Instagram. So here it is, a small gallery of crafty projects that I have done over the past few years. By visiting this page, I hope that viewers can get a sense of my style. I am always open to feedback and love hearing about other creative viewpoints. Practicing creativity is not something I will stop doing and I am honoured to have the support of my family and friends in having my art put in to use.
 
 Janice
 
@@ -38,6 +38,8 @@ Painting is just one way for me to express my presonality.
 	/assets/img/Painting/IMG_4877.jpg
 	/assets/img/Painting/IMG_4897.jpg
 	/assets/img/Painting/IMG_2453.jpg
+	/assets/img/Painting/IMG_4498.jpg
+	/assets/img/Painting/IMG_3273.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 
@@ -75,13 +77,15 @@ Home decor featuring my art & small decor projects.
 	/assets/img/Decor/Decor_7.jpg
 	/assets/img/Decor/Decor_8.jpg
 	/assets/img/Decor/Decor_12.jpg
-	/assets/img/Decor/Decor_10.jpg
+	/assets/img/Decor/Decor_13.jpg
+    /assets/img/Decor/Decor_14.jpg
 	/assets/img/Decor/Decor_6.JPG
 	/assets/img/Decor/Decor_9.jpg
 	/assets/img/Decor/Decor_11.jpg
 	/assets/img/Decor/Decor_1.png
 	/assets/img/Decor/Decor_3.jpg
 	/assets/img/Decor/Decor_4.jpg
+	/assets/img/Decor/Decor_10.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=3 %}
 
