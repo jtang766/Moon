@@ -6,11 +6,8 @@ date: 2016-03-12
 comments: false
 ---
 
-
 <center><figure>
-
-	<img width=500px src="/assets/img/RandomPhoto/Profile_picture.JPG" />
-
+	<img src="/assets/img/RandomPhoto/Profile_picture.JPG">
 </figure></center>
 
 ## Growing up 
