@@ -8,10 +8,7 @@ comments: false
 
 ## Thank you for your interest in my art and visiting my online portfolio. 
 
-Too many friends are surprised that I don't showcase my art outside of Instagram. So here it is, a small gallery of crafty projects that I have done over the past few years. By visiting this page, I hope that viewers can get a sense of my style. I am always open to feedback and love hearing about other creative viewpoints. Practicing creativity is not something I will stop doing and I am honoured to have the support of my family and friends in having my art put in to use.
-
-Janice
-
+Many friends are surprised that I don't showcase my art outside of Instagram. So here it is, a small gallery of crafty projects that I have done over the past few years. I continue to practice creativity and I am grateful for the support of my family and friends in having my art put in to use.
 
 ## Paintings
 

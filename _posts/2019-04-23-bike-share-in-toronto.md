@@ -11,7 +11,7 @@ project: true
 
 ## Bike Share in Toronto
 
-Toronto is the biggest city in Canada with a population of 2.7M in 2016 [1], and it is projected to grow to 3.9M in 2041 [2]. To support such a large population, we not only need the infrastructure but also the transportation to move the population. Currently, bike share is underutilized as a public transportation option. In this project I will be looking at the usage of Toronto’s bike share program and how they correlate to the venues within the area. 
+Toronto is the biggest city in Canada with a population of 2.7M in 2016 [1], and it is projected to grow to 3.9M in 2041 [2]. To support such a large population, we not only need the infrastructure but also the transportation to move the population. Currently, bike share is under-utilized as a public transportation option. In this project I will be looking at the usage of Toronto’s bike share program and how they correlate to the venues within the area. 
 
 I am not a frequent user of the bike share program, but I do personally see the benefits of bike sharing services. One being that I might need a fast ride to somewhere close without the burden of thinking about where to park my car or bike. I suspect that other users will also perform some kind of cost-benefit analysis that considers the distance traveled and the occasion before deciding to use a bike share. Also, you most likely will not use it for off-road biking or biking through the park. Thus, there may be some correlation between bike share usage and the surrounding venues. 
 
@@ -100,9 +100,9 @@ Histograms were plotted for each cluster and ridership were examined to see if t
 
 1. Food and Experiential cluster (Cluster 1) have lowest ridership with a mean of 16K visits in 2017, and the average duration is about 5-10 minutes longer for rides from and going to these areas. Looking at the spatial distribution of cluster 1, they are located on the outer parts of Toronto. Since there might be limited docking stations in surrounding neighborhoods, this can cause ridership to be low and rides to be much longer. 
 
-2.	By contrast, within Coffee Shop Venues (cluster 2) we can see that the average duration of rides is the shortest (14 mins, 840s) while ridership is very high at an average of 51K rides in 2017. This may be related to the characteristic of areas within this cluster group, areas with more coffee shops tend to be along busy commute routes such as areas surrounding Union station. Looking at the map of Toronto, areas belonging to cluster 2 are closer to Union station and have more than one nearby subway station. 
+2.	In contrast, within Coffee Shop Venues (cluster 2) we can see that the average duration is the shortest (14 mins, 840s) while ridership is very high at an average of 51K rides in 2017. This may be related to the characteristic of areas within this cluster group, areas with more coffee shops tend to be along busy commute routes such as areas surrounding Union station. Looking at the map of Toronto, areas belonging to cluster 2 are closer to Union station and have more than one nearby subway station. 
 
-3.	Within cluster 3 (Café and Social Venues) rides in the same postal region are double those of other clusters, which suggests that riders are using bike shares to travel to nearby destinations. However, rides to areas outside the cluster area are also high (62K in 2017) which skews the average ride duration a bit longer to 20 mins.  
+3.	Within cluster 3 (Café and Social Venues) rides in the same postal region are double those of other clusters, which suggests that riders are using bike shares to travel to nearby destinations. However, rides to areas outside the cluster area are also high (62K in 2017) which skews the average duration to be a bit longer at 20 mins.  
 
 <center><figure>
 	<img src="/assets/img/Article_BSIT/Graph_2.png">
@@ -117,15 +117,15 @@ Histograms were plotted for each cluster and ridership were examined to see if t
 
 ## Discussion
 
-Although Toronto is the biggest city in the Canada, some may consider it underdeveloped compared to other metropolises around the world. When clustering the 31 postal regions, we were able to see some correlation with the urban sprawl. Initially, I hypothesized that types of venues within an area can attract bike share riders, but the research findings showed that subway stations and Union stations attracted the most ridership from nearby areas. 
+Although Toronto is the biggest city in Canada, some may consider it underdeveloped compared to other metropolises around the world. When clustering the 31 postal regions, we were able to see some correlation with the urban sprawl. Initially, I hypothesized that types of venues within an area can attract bike share riders, but the research findings showed that subway stations and Union stations attracted the most ridership from nearby areas. 
 
 Additional data from the City of Toronto’s website can be incorporated to account for confounding effects such as total bicycle movements [8] and bikeways (bike lanes, signed bicycle routes, and pathways) [9]. Future studies can include comparing bike share users with everyday bikers or analyzing the correlation with the availability of bike lanes and pathways. Clustering of venues can also include ridership data to consider the traffic in the neighborhood. 
 
-The study was limited to the 31 postal regions as that is where bike share docking stations are. Clustering can expand to include other regions to find similar areas for new stations. Considering that the average duration of a trip is 16 minutes and there is low ridership in cluster 1, new stations should be no further than a 16-minute bike ride away from the nearest existing docking station. 
+The study was limited to the 31 postal regions as that is where bike share docking stations are. Clustering can expand to include other regions to find similar areas for new stations. Considering that the average duration of a trip is 16 minutes and low ridership in cluster 1, new stations should be no further than a 16-minute bike ride away from the nearest existing docking station. 
 
 ## Conclusion
 
-Implications of this study go beyond management of bike share programs to city planning as the flow traffic is dependent on many factors. One approach is to analyze the differences and similarities of neighborhoods to see how communities in Toronto adjust to the increase in traffic or the increase in population. 
+Implications of this study can go beyond management of bike share programs to city planning as the flow traffic is dependent on many factors. One approach is to analyze the differences and similarities of neighborhoods to see how communities in Toronto adjust to the increase in traffic or the increase in population. 
 
 As space becomes more limited and growth of transit system is slow, many commuters will consider combinations of transportation based on whichever option is the most efficient. This research proves the case that transportation organizations should work together to find a solution that is different from the traditional way of thinking. One good example is the Presto card system, which made it easier for commuters to transfer in between the GO and the TTC [10].
 
