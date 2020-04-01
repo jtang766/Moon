@@ -20,9 +20,10 @@ During my senior years at my alma mater, I was given the opportunity to experime
 
 ## Currently, 
 
-I am a Data Strategist and I work with business partners by telling a story with data of consumer behaviours and the digital landscape. I don’t believe in simple correlations, but rather a series of influences and social changes that drive changes in human behaviour. These changes have yet to reach equilibrium, which creates a challenge in the accuracy of our models but makes every day interesting. 
+I am a Data Strategist and I work with business partners by telling a story of consumer behaviours and the digital landscape. When I look through the data, I don’t believe in simple correlations, but rather a series of influences and social changes that drive changes in human behaviour. These changes have yet to reach equilibrium, which creates a challenge in the accuracy of our models but makes every day interesting.
 
 When we better understand the thought process of individuals, we can better serve society. That is my goal in life, to be an educator - a communicator of how the rest of us lives in this world.
+ 
 
 
 

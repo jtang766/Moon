@@ -3,7 +3,7 @@ layout: post
 title: "Ridership of Toronto's Bike Share Program and Influence of Surrounding Venues"
 date: 2019-04-23
 excerpt: "In this project I will be looking at the usage of Toronto’s bike share program and how they correlate to the venues within the area."
-tags: [Data Science, University of Toronto, Statistics, Human behaviour]
+tags: [Data Science, Statistics, Human behaviour]
 feature: /assets/img/Article_BSIT/header.jpeg
 project: true
 ---

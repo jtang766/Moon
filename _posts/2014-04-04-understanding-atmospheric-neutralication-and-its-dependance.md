@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding Atmospheric Neutralization and It's Dependence"
 date: 2014-04-07
-excerpt: "An Introduction to Acidity Trends across the United States of America."
+excerpt: "A research project on the Acidity Trends across the United States of America."
 tags: [Analytical Chemistry, Chemistry, Statistics, University of Toronto]
 feature: /assets/img/Article_UANAID/header.png
 project: true
@@ -14,9 +14,9 @@ project: true
 
 to look at the atmosphere and assume that not much is happening but the fact of the matter is the atmosphere is very complex with many layers and contains particulate matter ranging in a variety of sizes and properties. Relatively speaking it is easier to study the atmosphere using bigger particles such as dust or pollen because they can act as a microscopic environment for gaseous contaminants to interact with each other.
 
-Understanding these interactions can help us assess the true geographical effects of atmospheric pollutants from urbanized centers and the extent of natural processes from the surrounding ecosystem in counteracting the imbalance. The two major gaseous contaminants that are widely studied are SO2 (sulfur oxide, we will also refer it as sulfate the ionic derivative) and NOx (Nitrogen orgasms, we will also refer them as nitrates the ionic derivative).
+Understanding these interactions can help us assess the true geographical effects of atmospheric pollutants from urbanized centres and the extent of natural processes from the surrounding ecosystem in counteracting the imbalance. The two major gaseous contaminants that are widely studied are SO2 (sulphur oxide, we will also refer it as sulphate the ionic derivative) and NOx (Nitrogen Oxide, we will also refer to them as nitrates, the ionic derivative).
 
-In 1990 The Clean Air Act [i] was intended to reduce the emission of SO2(g) and NOx within the transportation sector. A study by Holland M. D et al. [1999] [ii] on data collected from CASNet (Clean Air Skies Network) concluded a gradual and significant decrease in SO2, and a moderate decrease in NOx after 1990. Our study will extend the study to 2013 with analysis of the characteristics of particle solid phases.
+In 1990, The Clean Air Act [i] was brought in to reduce the emission of SO2(g) and NOx within the transportation sector. A study by Holland M. D et al. [1999] [ii] on data collected from CASNet (Clean Air Skies Network) concluded a gradual and significant decrease in SO2, and a moderate decrease in NOx after 1990. Our study will extend the study to 2013 with analysis of the characteristics of particle solid phases.
 
 Due to time constraints, we only studied six sites that geographically span across the United States (figure 1). Within western United States Glacier NP and Grand Canyon NP represent less industrialized areas, where as Penn State and Shenandoah NP are within close proximity of industrialized areas. Perkinstown does not have a strong influence from urbanization however, it is located within the Northern Plains Region which has the highest agricultural production as stated by USDA (United States Department of Agriculture) [iii].
 
@@ -36,9 +36,9 @@ Measurements of the concentrations of sodium Na+ and chloride Cl- were available
 	Table 1 – Particle ion concentrations. Abbreviations for site name are GLA: Glacier NP, GRA: Grand Canyon NP, PER: Perkinstown, SHE: Shenandoah NP, PEN: Penn State, GEO: Georgia Station.</figcaption>
 </figure></center>
 
-Naturalization of the atmosphere is important because it helps to maintain the pH level of rain water to about 5.6, which is the natural pH of rain. Acidity levels of acid rain below the pH of 5.6 will lead to harmful effects on human health, terrestrial and aquatic ecosystems. Calculations used to determine the acidity of the environment require complex calculations, which were conveniently available as an online model, known as E-AIM (Extended Aerosol Inorganics Model) [iv].
+Naturalization of the atmosphere is important because it helps to maintain the pH level of rain water to about 5.6, which is the natural pH of rain. Acidity levels of acid rain below the pH of 5.6 will lead to harmful effects on human health, terrestrial and aquatic ecosystems. Calculations used to determine the acidity of the environment require complex calculations, which were conveniently available as an online model, known as E-AIM (Extended Aerosol Inorganic Model) [iv].
 
-A drawback to our analysis was that only weekly measurements were available. This may not greatly affect the ion concentrations, however weekly averages of relative humanity for E-AIM are completely useless. For the spirt of understanding the particulate system, we analyzed the behavior of the system by setting the relative humanity at 70%, 80% and 90%. Due to the extensive procedure, only concentrations of Georgia Station were analyzed.
+A drawback to our analysis was that only weekly measurements were available. This may not greatly affect the ion concentrations, however weekly averages of relative humanity for E-AIM are completely useless. For the spirt of understanding the particulate system, we analyzed the behaviour of the system by setting the relative humanity at 70%, 80% and 90%. Due to the extensive procedure, only concentrations of Georgia Station were analyzed.
 
 Figure 2 shows the calculated pH values from the E-AIM model. Average pH for rainfall within the United State is about 4.3 by the EPA (Environmental Protection Agency). The wave-like pattern is a result of seasonal changes; during warmer seasons vegetation will naturally produce more ammonia resulting in a lower pH.
 
@@ -81,7 +81,7 @@ Changes in strong acidity and neutralization were calculated by the Theil-sen sl
 
 ### E-AIM Analysis
 
-Ion concentration from Georgia Station from 2004-2013 was processed using the E-AIM (Extended Aerosol Inorganics Model) [4]. The concentration of H+ (equation 3) was determined to be the ionic equivalent to balance the charges in the system. The model’s outputs were activity coefficients, µ, and molar fractions, n, which were then used to calculate the pH of the system (equation 4).
+Ion concentration from Georgia Station from 2004-2013 was processed using the E-AIM (Extended Aerosol Inorganic Model) [4]. The concentration of H+ (equation 3) was determined to be the ionic equivalent to balance the charges in the system. The model’s outputs were activity coefficients, µ, and molar fractions, n, which were then used to calculate the pH of the system (equation 4).
 
 H+:
 <figure>

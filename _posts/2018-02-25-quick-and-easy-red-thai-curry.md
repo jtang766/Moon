@@ -2,7 +2,7 @@
 layout: post
 title: "Quick and Easy Red Thai Curry"
 date: 2018-02-25
-excerpt: "The value in the recipe is in the efficiency with using a slow cooker."
+excerpt: "The value in the recipe is in the efficiency by using a slow cooker."
 tags: [Living Efficiently, Random thoughts]
 feature: /assets/img/RandomPhoto/Red_Thai_Curry.JPG
 

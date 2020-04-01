@@ -12,7 +12,6 @@ tags: [team, Analytical Chemistry, Chemistry, Statistics, University of Toronto]
 
 ## The Murphy Group with Professor Jennifer Murphy
 
-I had the pleasure of working with the Murphy Group during my research of Acidic Aerosol Particles across North America. This opportunity showed me the bridge between my two fields of research Chemistry and Statistics. Physical chemistry theories were used to assess the partitioning of ions between phases and with statistical models we determined the significance in trends and projected these to the future. Not only was I able practice my capabilities in conducting an analyses, I gained experience working with simulations that helped fill the gap in understanding the weather conditions and the phase cycle of a particle.
+I had the pleasure of working with the Murphy Group during my research of Acidic Aerosol Particles across North America. This opportunity showed me the bridge between my two fields of research: Chemistry and Statistics. Physical chemistry theories were used to assess the partitioning of ions between phases and statistical models were used to determined the significance in trends and projected future results. Not only was I able practice my capabilities in conducting statistical analysis, I gained experience working with simulations that helped fill in the gap in understanding the weather conditions and the phase cycle of a particle.
 
 [Learn More about My Research](http://janicetang.com/research/){: .btn}     
-

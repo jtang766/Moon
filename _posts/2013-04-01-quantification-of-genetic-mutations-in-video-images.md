@@ -2,7 +2,7 @@
 layout: post
 title: "Quantification of Genetic Mutations in Video Images"
 date: 2014-04-01
-excerpt: "The analysis will cover techniques used to convert video images to quantitative data and the qualitative conclusion that was made."
+excerpt: "An analysis that covers the techniques used to convert video images to quantitative data and how we arrive to the qualitative conclusion."
 tags: [Biology, Statistics, University of Toronto]
 feature: /assets/img/Article_QOGMIVI/header.png
 project: true
@@ -11,11 +11,11 @@ project: true
 
 ## In Today's Information Era, 
 
-data can be collected from anywhere, from mining of twitter feeds to traffic counters. How about video images? They are essentially data collected on the wavelength of light that enters a camera, from frame to frame. Implication are highly versatile but only after we are able to develop algorithms that can further quantify the observations in a video.
+data can be collected from anywhere, from mining of twitter feeds to traffic counters. How about video images? They too are data points collected on the wavelength capture by the camera. Implication can be highly versatile but only after developing algorithms that can further quantify the observations in a meaningful insight.
 
-This study explores the usage of video images to determine the effects of genetic mutations in C. Elegans worms, also known as lab worms. Mutations can affect the mutant worm’s adaption for higher temperature and are characterized in two ways. First, the effect will be in the responses mechanism, which will reduce the ability to detect a change in temperature. Second classification will be an effect in the physiological mechanism and reduces the ability of organs to exhibit normal behavior when temperature increases.
+This study explores the effects of genetic mutations in C. Elegans worms, also known as lab worms. With an analysis of video images, mutations effects on the mutant worm’s adaption for higher temperature are characterized in two ways. One way is a change in the responses mechanism, which will further effect the ability to detect a change in temperature. Second classification is in the physiological mechanism and reduces the ability of organs to exhibit normal behaviour at high temperatures.
 
-59 locations of mutations were included in the study. Their performance was recorded in 80 second videos. The contrast was adjusted so the changes in the coloration of the pixel can counted by a software. The number of pixels that changed color in between frames tell us how much movement the lab worms were exhibiting (figure 1).
+59 mutations at different chromosome locations were studied. The behaviour of the mutant worms were recorded in 80 second videos. The contrast was adjusted so the changes in the coloration of the pixel can be counted by a software. The number of pixels that changed colour in between frames tell us how much movement was exhibited by the lab worms during the process of increasing temperatures (figure 1).
 
 <center><figure>
 	<img src="/assets/img/Article_QOGMIVI/Figure_1.JPG">
@@ -23,7 +23,7 @@ This study explores the usage of video images to determine the effects of geneti
 	Figure 1 – Images of C. Elegans worms from video analysis</figcaption>
 </figure></center>
 
-A mutation in the physiological mechanism results in a gradual decrease in movement ending in paralysis. On the other hand, a mutation in the ability to respond to an increase in temperature can be seen as a rapid decrease in movement to paralysis because the lab worms will not change their swimming behaviours until it is too late. Figure 2 shows the expectation of the thermal performance curve within our hypothesis.
+A mutation in the physiological mechanism resulted in a gradual decrease in movement and ending in paralysis. On the other hand, a mutation in the response mechanism can be seen as a rapid decrease in movement to paralysis as the lab worms will not change their swimming behaviours until it is too late. Figure 2 shows the hypothesized thermal performance curves.
 
 <center><figure>
 	<img src="/assets/img/Article_QOGMIVI/Figure_2.png">
@@ -31,9 +31,9 @@ A mutation in the physiological mechanism results in a gradual decrease in movem
 	Figure 2 - Expected thermal performance curves of worms with a mutation in physiological mechanism (Black) or a mutation in responses mechanism (Grey).</figcaption>
 </figure></center>
 
-27 videos of different worms were recorded for accuracy in determining the true effects of the mutations. The resulting data-set was still very noisy and contained many outliers. Simple statistical summaries and methods could not conclude what was happening. Our solution was Functional Data Analysis (FDA) that was available as an R package. FDA was able to solve our problem by looking at the observations as a continuum over time. A polynomial function was plotted for intervals of data and the polynomials were connected to make a soft continuum.
+27 videos of different worms were recorded as the sample size and accuracy in determining the true effects of the mutations. The resulting data-set was still very noisy and contained many outliers. Simple statistical summaries and methods could not conclude what was happening. Our solution was Functional Data Analysis (FDA) that was available as an R package. FDA was able to solve our problem by looking at the observations as a continuum over time. A polynomial function was plotted for intervals and the polynomials were connected to create a smooth continuum.
 
-The next step in quantification was to numerically determine the rates of decrease in movement by analysis of derivative of the thermal performance curves. Linking back to our initial hypothesis, a gradual decrease in movement can be seen by a constant derivation and a spontaneous paralysis will result in rapid change in the derivation (figure 3).
+The next step in quantification was to numerically determine the rates of decrease by calculating the derivative of the thermal performance curves. Linking back to our initial hypothesis, a gradual decrease in movement can be seen by a constant derivation and a spontaneous paralysis will result in rapid change in the derivation (figure 3).
 
 <center><figure>
 	<img src="/assets/img/Article_QOGMIVI/Figure_3.png">
@@ -41,7 +41,7 @@ The next step in quantification was to numerically determine the rates of decrea
 	Figure 3 – FDA smoothed thermal performance curves of IK575 strain(left) and CB382 strain(right)</figcaption>
 </figure></center>
 
-Clustering was used to group the 59 strains into two buckets of classification. There were many strains that did not completely match the hypothesis, which was expected because most mutations do not exclusively affect just one mechanism. However for those strains that behaved accordingly, results of the analysis are similar to the expectation of our initial hypothesis (figure 4).
+Clustering was used to group the 59 strains into two buckets of classification. There were many strains that did not completely match the hypothesis, which was expected as most mutations do not exclusively affect just one mechanism. However for those strains that behaved accordingly, results of the analysis are similar to the expectation of our initial hypothesis (figure 4).
 
 <center><figure>
 	<img src="/assets/img/Article_QOGMIVI/Figure_4.png">
@@ -49,7 +49,7 @@ Clustering was used to group the 59 strains into two buckets of classification. 
 	Figure 4 - FDA Thermal performance curves and derivatives of strains that exhibit strong relations to initial hypothesis.</figcaption>
 </figure></center>
 
-Videos in our study were limited to black and white and a multiplicity of the data by frame and sample size quickly transformed the data into big data. In order gather the information from the noise we needed to use powerful smoothing methods, such as the FDA program. We also considered Functional Principal Component Analysis (FPCA), which was more powerful but the FDA procedure was significant enough. Considerations into quantification of color image will require a powerful algorithm that mines the elementary data generated by the charge coupled device.
+Although the videos were limited to black and white, the data was big due to the multiplicity of working with pixelated information. In order to separate the information from the noise we needed to use powerful smoothing methods, such as the FDA. We also considered Functional Principal Component Analysis (FPCA), which was more powerful but the FDA procedure was significant enough. Considerations into quantification of colour image will require a powerful algorithm that mines the elementary data generated by the charge coupled device.
 
 [Back to Research](http://janicetang.com/research/){: .btn}     
 [Meet The Team](http://janicetang.com/meet-the-gibbs-team/){: .btn}
